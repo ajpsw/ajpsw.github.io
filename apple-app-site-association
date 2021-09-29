@@ -1,0 +1,9 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "3G9Y2KZ57A.PSW.SuperGood",
+            "paths": ["/test/*"]
+        }]
+    }
+}
